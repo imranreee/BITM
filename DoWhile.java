@@ -7,5 +7,5 @@ public class DoWhile {
             System.out.println("Count is: " + count);
             count++;
         } while (count < 11);
-	}
+     }
 }
